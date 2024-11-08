@@ -66,6 +66,10 @@ ve() {
 source ~/.bashrc
 ```
 
+7. Rename ve files
+
+Change the file name from "ve.sh" to "ve" (Just remove .sh).
+
 The `ve` command should now be globally available.
 
 ## Usage

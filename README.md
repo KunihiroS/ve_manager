@@ -21,11 +21,6 @@ The `ve` script is a command-line tool designed to simplify the management of Py
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/[your-username]/[your-repo-name].git
-cd [your-repo-name]
-```
-
 2. Make the script executable:
 
 ```bash

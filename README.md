@@ -85,23 +85,6 @@ To deactivate all active virtual environments:
 ve deact
 ```
 
-### Debug Mode
-
-To run the script in debug mode, which provides additional information:
-
-```bash
-ve --debug act
-ve --debug deact
-```
-
-### Display Help
-
-To show usage instructions and options:
-
-```bash
-ve --help
-```
-
 ## Notes
 
 - This script runs in bash. Adjustments may be needed for other shells.
